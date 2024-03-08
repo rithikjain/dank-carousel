@@ -2,7 +2,5 @@
 
 A 3D carousel made with Flutter.
 
-
-https://github.com/rithikjain/dank-carousel/assets/12408595/55ba1749-214e-4a9f-8966-97f53f7091bd
-
+https://github.com/rithikjain/dank-carousel/assets/12408595/d4e00ae7-83e4-4c7e-81e1-87641358c753
 
